@@ -4,5 +4,6 @@ Projeto criado para assimilar os conhecimentos passados no módulo 04 do curso: 
 
 ## Contato
 
-[WhatsApp: ](wa.me/+5531991090683)
-[LinkedIn: ](https://www.linkedin.com/in/brunomarazzi/)
+[WhatsApp](wa.me/+5531991090683)
+
+[LinkedIn](https://www.linkedin.com/in/brunomarazzi/)
