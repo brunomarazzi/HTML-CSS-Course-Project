@@ -1,4 +1,4 @@
-# 'Build Responsive Real-World Websites with HTML and CSS' 04-CSS-Layouts
+# 'Build Responsive Real-World Websites with HTML and CSS' Course Project
 
 Projeto criado para assimilar os conhecimentos passados no módulo 04 do curso: 'Build Responsive Real-World Websites with HTML and CSS' por Jonas Schmedtmann.
 
